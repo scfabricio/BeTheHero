@@ -20,7 +20,7 @@ Nesse projeto foram utilizadas as seguintes tecnologias:
 # :computer: Projeto
 O projeto consiste em desenvolver um ambiente tecnológico para conectar ONGs com voluntário (Heroes) comovidos a ajudar.  
 
-Pelo aplicatiovo web, construido com ReactJS, as ONGs podem cadastrar suas informações de contato e os casos sob seus cuidados.  
+Pelo aplicativo web, construido com ReactJS, as ONGs podem cadastrar as suas informações de contato e os casos sob os seus cuidados.  
 
 O aplicativo mobile, construido com React Native e Expo, a comunidade pode visualizar todos os casos cadastrados e, conforme sua preferência, entrar em contato com a ONG e realizar sua doação.  
 
@@ -28,9 +28,9 @@ O backend, construido em NodeJS, recebe e disponibiliza todas essas informaçõe
 
 # :electric_plug: Como instalar
 
-Os passos a seguir são pré requisitos para os três ambientes.
+Os passos a seguir são pré-requisitos para os três ambientes.
 
-* Navege a te a pasta do projeto
+* Navegue a te a pasta do projeto
 * Execute o comando a seguir para instalar as dependências do projeto  
 ```
 $ npm install
