@@ -1,6 +1,6 @@
 # Be The Hero
 
-![logo][logo_img]
+<center>![logo][logo_img]</center>
 
 ---
 :rocket: **OmniStack Week 11.0**
